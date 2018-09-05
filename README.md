@@ -1,16 +1,8 @@
-![CloudBerry Lab](/images/cblogo-vertical-black-bg-transparent.png)
+---
+description: Cloudberry Knowledge Base
+---
 
-# CloudBerry Lab Knowledge base
+# Introduction
 
-Welcome to CloudBerry Lab knowledge base! Help us build reliable product! This knowledge base contains the most frequent issues related to all CloudBerry products (Backup, Explorer, Drive).
+The Knowledge Base contains articles written by the user community and CloudBerry engineers on services and products offered by CloudBerry Lab. It is essentially your guide in the pool of issues you can encounter when using CloudBerry Backup. If something is malfunctioning — chances are, you can find the resolution here. You can browse the topics by category or use the search bar to find a specific entry.
 
-Fork, commit and push back if you have anything for us!
-
-## How to contribute
-
-Fork the project and make changes as follows:
-
-* images folder - the place we suggest to keep all image assets (feel free to create your directory if you plan many pictures);
-* _posts folder - the place we keep article markups (markdown is used). File should be YYYY-MM-DD-kbZZZZ.md (where YYYY - year in 4 digits, MM - month in 2 digits, DD - day in 2 digits, ZZZZ - last + 1 KB number).
-
-We accept pull requests, please add description.
